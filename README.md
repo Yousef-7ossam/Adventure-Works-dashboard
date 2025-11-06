@@ -42,4 +42,7 @@ Interact with visuals to explore insights.
 
 📸 Dashboard Preview
 
-(Add a screenshot of your dashboard here)
+![Dashboard Preview](image Dashboard/Screenshot 2025-11-06 020756.png)
+![Dashboard Preview](image Dashboard/Screenshot 2025-11-06 020825.png)
+![Dashboard Preview](image Dashboard/Screenshot 2025-11-06 020912.png)
+![Dashboard Preview](image Dashboard/Screenshot 2025-11-06 020926.png)
